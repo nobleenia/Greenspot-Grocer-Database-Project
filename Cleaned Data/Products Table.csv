@@ -1,0 +1,8 @@
+﻿ItemNum,Description,ItemType,Location,Unit,VendorID
+1000,Bennet Farm free-range eggs,Dairy,D12,dozen,BEN01
+2000,Ruby's Kale,Produce,p12,bunch,RUB02
+1100,Freshness White beans,Canned,a2,12 ounce can,FRE03
+1222,Freshness Green beans,Canned,a3,12 ounce can,FRE03
+1223,Freshness Green beans,Canned,a7,36 oz can,FRE03
+1224,Freshness Wax beans,Canned,a3,12 ounce can,FRE03
+2001,Ruby's Organic Kale,Produce,po2,bunch,RUB02
