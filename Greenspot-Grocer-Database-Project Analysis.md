@@ -156,6 +156,24 @@ This project involved transforming Greenspot Grocer's unwieldy spreadsheet data 
 ## Queries for Validation
 - Sample queries for testing relationships and insights are included in the project files.
 
+## Advanced Database Features
+1. Stored Procedures:
+  - Generate Monthly Revenue Report: This stored procedure calculates the total revenue for each month.
+  - Restock Report: This procedure lists products with low stock levels.
+2. Triggers:
+  - Auto-Update Inventory on Order: This trigger automatically updates the QuantityOnHand in the Inventory table when a new order is placed.
+3. Views:
+  - Products and Vendors View: This view simplifies queries by combining Products and Vendors information.
+  - Monthly Revenue View: This view provides a pre-calculated revenue report by month.
+4. Advanced Query Automation:
+  - Scheduled Query: Daily Low-Stock Report
+5. Profitability Analysis:
+7. Enhanced Reporting:
+### Integrate with BI Tools
+Export the results of views like MonthlyRevenue to tools like Tableau or Power BI for interactive dashboards. This makes your project visually impactful and easier to analyze.
+  
+
+
 ## Conclusion
 This project transformed raw spreadsheet data into a scalable and reliable relational database. The design ensures data integrity, supports business growth, and provides actionable insights for Greenspot Grocer.
 """
